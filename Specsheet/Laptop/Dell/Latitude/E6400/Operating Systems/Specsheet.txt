@@ -1,0 +1,23 @@
+WINDOWS
+Working
+1. Windows XP
+2. Windows 7 
+3. Windows 8.1
+4. Windows 10
+Not Working
+1. ???
+Untested
+1. Windows Vista
+2. Windows 11
+
+LINUX
+Working
+1. ???
+Not Working
+1. ???
+Untested
+1. Arch
+2. Mint
+3. Ubuntu
+4. Lakka
+      

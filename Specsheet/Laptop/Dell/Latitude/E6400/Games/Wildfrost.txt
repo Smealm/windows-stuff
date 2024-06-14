@@ -1,0 +1,7 @@
+Name: WILDFROST
+SteamDB: https://steamdb.info/app/1811990/screenshots/
+FPS: ~10 - 20
+Settings: Fullscreen, Default
+Resolution: 1280x800
+
+Playable: Yes

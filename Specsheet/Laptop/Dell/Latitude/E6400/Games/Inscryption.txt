@@ -1,0 +1,7 @@
+Name: Inscryption
+SteamDB: https://steamdb.info/app/1092790/screenshots/
+FPS: ~20 - 30, ~10 - 15 in boss battles
+Settings: Fullscreen, Flicker Off
+Resolution: 720x480
+
+Playable: Yes
